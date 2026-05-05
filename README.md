@@ -1,4 +1,6 @@
-[Application screenshot] (Landingpage.png)
+[Application screenshot]
+### Landing Page
+![Landing](Landingpage.png)
 # LearnFlow 
 
 An AI-based adaptive learning platform that personalizes programming learning paths.
